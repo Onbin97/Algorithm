@@ -32,5 +32,4 @@ def solution4(s):
         int(s)
     except:
         return False
-    return len(s) == 4 or len(s) == 6 
-
+    return len(s) == 4 or len(s) == 6
