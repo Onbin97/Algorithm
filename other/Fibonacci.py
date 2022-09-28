@@ -30,6 +30,7 @@ def mf(n):
     memory[n] = output
     return output
 
+print([mf(i) for i in range(1, 11)])
+    
 
-print(memory)
-print(mf(1000))
+print(mf(1))
