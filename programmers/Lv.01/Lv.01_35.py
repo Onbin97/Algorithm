@@ -1,3 +1,5 @@
+# 신고 결과 받기
+
 def solution(id_list, report, k):
     be_reported = {i: set() for i in id_list}
     reported = {i: set() for i in id_list}

@@ -1,3 +1,5 @@
+# 이상한 문자 만들기
+
 # 내가 푼 풀이
 def solution(s):
     lst = s.split(' ')

@@ -6,5 +6,3 @@ def solution(arr):
         if arr[i] != arr[i-1]:
             answer.append(arr[i])
     return answer
-
-print(solution([1,1,1,3,3,0,1,1]))
